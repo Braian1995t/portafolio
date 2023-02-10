@@ -3953,6 +3953,16 @@ input, select, textarea {
 			border-radius: 50%;
 			
 			
+			
+		  }
+
+		  .columnasx4 p{
+			text-align: center;
+			max-height: 100px;
+			max-width: 100px;
+			font-family: Arial;
+			
+			
 		  }
 
 		  .zoom{
